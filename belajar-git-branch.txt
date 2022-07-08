@@ -3,6 +3,7 @@ File ini untuk
   * belajar branch 1
   * belajar branch 2
     ^ b21
+    ^ b22
 - belajar branch 0
 - belajar branch 1
   * b11
