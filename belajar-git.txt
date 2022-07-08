@@ -2,5 +2,5 @@ Belajar git
 - Konsisten belajar
 - Perbanyak source untuk belajar
 - Jangan menyerah
-- Coba edit file
 - Coba edit file lagi
+- Coba tambah edit
